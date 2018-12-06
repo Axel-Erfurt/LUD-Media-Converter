@@ -10,6 +10,7 @@ You will need the following to run the application:
 
 ## How to use
 You will have ffmpeg installed.
+
 Then run the application using the command:
 $ python3 main.py
 
